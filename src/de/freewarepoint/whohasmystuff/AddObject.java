@@ -193,6 +193,7 @@ public class AddObject extends FragmentActivity {
                 mIntent.putExtras(bundle);
                 setResult(RESULT_OK, mIntent);
                 finish();
+				// todo blabla
             }
         });
 
